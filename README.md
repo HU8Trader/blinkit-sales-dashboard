@@ -49,16 +49,10 @@ _Explore other views in the screenshots below:_
 | `Blinkit Dashboard by Himansh Upadhyay.pbix` | Power BI dashboard file                 |
 | `2.png`, `3.png`, `9.png`                 | Dashboard visuals                       |
 
----
-
-## 🔗 [Optional] Video Walkthrough
-📺 Coming soon! *(Upload your YouTube link or Loom demo here)*
-
----
 
 ## 🙌 About the Creator
 
-I’m a data analyst with 2+ years of real-world experience working with companies offline. I specialize in **Power BI**, **Excel**, **SQL**, and **Python** to extract, transform, and visualize business-critical data.
-
-> 📬 Connect with me for freelance projects or job opportunities!
+Data Analyst & Power BI Developer with 1+ years of hands-on experience transforming raw data into business insights using Power BI, SQL, Excel, and Python. Self-employed at HiLyst(My own firm), with 15+ freelance projects successfully delivered through Upwork and Freelancer.
+ 
+Proficient in DAX, Power Query, and data modeling, with a strong foundation in mathematics and scientific research. Adept at simplifying complex datasets, building dynamic dashboards, and automating reporting pipelines. Continuously improving technical expertise, with deep knowledge of Python and SQL.
 
